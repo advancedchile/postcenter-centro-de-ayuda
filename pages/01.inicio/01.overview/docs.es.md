@@ -1,7 +1,12 @@
 ---
 title: test
 taxonomy:
-    category: docs
+    category:
+        - docs
+jscomments:
+    active: true
+    provider: disqus
+visible: true
 ---
 
 oli
