@@ -2,6 +2,9 @@
 title: 'Bienvenido a PostCenter'
 taxonomy:
     category: docs
+jscomments:
+    active: true
+    provider: disqus
 child_type: docs
 ---
 
